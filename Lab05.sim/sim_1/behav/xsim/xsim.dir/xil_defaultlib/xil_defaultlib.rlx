@@ -1,0 +1,11 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/hn11428/Lab05/Lab05.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/hn11428/Lab05/Lab05.srcs/sim_1/new/fsm_tb.v,1790915693,verilog,,,,fsm_tb,,,,,,,,
+C:/Users/hn11428/Lab05/Lab05.srcs/sources_1/new/clock_divider.v,1790915334,verilog,,C:/Users/hn11428/Lab05/Lab05.srcs/sources_1/new/debouncer.v,,clock_divider,,,,,,,,
+C:/Users/hn11428/Lab05/Lab05.srcs/sources_1/new/debouncer.v,1790915340,verilog,,C:/Users/hn11428/Lab05/Lab05.srcs/sources_1/new/leds.v,,debouncer,,,,,,,,
+C:/Users/hn11428/Lab05/Lab05.srcs/sources_1/new/leds.v,1790915347,verilog,,C:/Users/hn11428/Lab05/Lab05.srcs/sources_1/new/switches.v,,leds,,,,,,,,
+C:/Users/hn11428/Lab05/Lab05.srcs/sources_1/new/switches.v,1790915352,verilog,,C:/Users/hn11428/Lab05/Lab05.srcs/sources_1/new/top_fsm_system.v,,switches,,,,,,,,
+C:/Users/hn11428/Lab05/Lab05.srcs/sources_1/new/top_fsm_system.v,1790915437,verilog,,C:/Users/hn11428/Lab05/Lab05.srcs/sim_1/new/fsm_tb.v,,top_fsm_system,,,,,,,,

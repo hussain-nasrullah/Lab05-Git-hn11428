@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Oct  2 11:12:11 2026
+# Process ID: 42148
+# Current directory: C:/Users/hn11428/Lab05/Lab05.runs/impl_1
+# Command line: vivado.exe -log clock_divider.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source clock_divider.tcl -notrace
+# Log file: C:/Users/hn11428/Lab05/Lab05.runs/impl_1/clock_divider.vdi
+# Journal file: C:/Users/hn11428/Lab05/Lab05.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source clock_divider.tcl -notrace
